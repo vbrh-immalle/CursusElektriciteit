@@ -1,0 +1,60 @@
+title: Cursus Elektriciteit
+defaults:
+  - scope:
+      path: "images"
+    values:
+      image: true
+
+plugins:
+  - jekyll-katex
+
+
+
+collections:
+  hoofdstukken:
+    order:
+      - hst1
+      - hst2
+  hst1:
+    output: true
+    hoofdstuknummer: 1
+    # sort_by: lesson
+    # order:
+    #   - inleiding
+    #   - stroomsterkte
+    #   - lading
+  hst2:
+    hoofdstuknummer: 2
+    order:
+      - inleiding.md
+  #   - jos
+  #   - jan
+  #   - freddy
+  # - hoofdstukken:
+  #   order:
+  #     - Gelijkspanning
+  #     - Wisselspanning
+        # - name: Elektriciteit als wetenschap
+        #   hoofdstuk: 1
+        #   link: /content/hst1/
+        #   subhoofdstukken:
+        #     order:
+        #       - inleiding.md
+        #       - stroomsterkte.md
+        #       - lading.md
+        # - name: Twee
+        #   hoofdstuk: 2
+        #   link: /content/hst2/
+
+
+
+# markdown: kramdown
+# kramdown:
+#   auto_ids: true
+#     input:                  GFM
+#     math_engine:            mathjax
+#     smart_quotes:           lsquo,rsquo,ldquo,rdquo
+#     toc_levels:             1..6
+#    syntax_highlighter:     rouge
+#     syntax_highlighter_opts:
+#       guess_lang:           true

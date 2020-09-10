@@ -1,0 +1,6 @@
+<nav class="sidenav">
+{% assign sorted = site.hst1 | sort: 'lesson' %}
+{% for item in sorted %}
+    <li><a href="{{ item.url }}">{{ item.title }}</a></li>
+{% endfor %}
+</nav>
