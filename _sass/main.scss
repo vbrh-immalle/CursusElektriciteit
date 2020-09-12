@@ -27,11 +27,16 @@ body {
 
 .main {
     display: grid;
-    grid-gap: 10px;
+    // grid-gap: 10px;
     grid-template-areas:
-    "....... top     top     top"
+    "empty   top     top     top    "
     "sidebar content content content"
     "footer  footer  footer  footer";
+}
+
+.empty {
+    grid-area: empty;
+    background-color: #010D00;
 }
 
 header {
@@ -84,6 +89,7 @@ nav.sidenav > li {
 h2 {
     background-color:  #BFAB49;
     padding-left: 10px; 
+    margin-top: 0;
 }
 
 // img {
