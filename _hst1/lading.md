@@ -27,7 +27,12 @@ $$ [C]=\frac{[A]\ }{[s]} $$
 
 In historische wetenschappelijke literatuur duikt vaak het symbool Q op wanneer men over elektrische lading spreekt. Het zou staan voor **Quantity of electricity** of dus letterlijk de **hoeveelheid elektriciteit** die ergens aanwezig is. **Lading** dus.
 
-Een stroom van 15 A is dus gelijk aan 15 Coulumb per seconde. Een stroom van 15 A verplaatst dus elke seconde voor 15 coulomb aan lading. 15 coulumb, dat zijn heel wat elektronen als je weet dat 1 elektron slechts een lading heeft van 1,602 176 634 × 10-19 C.
+{% katexmm %} 
+
+Een stroom van 15 A is dus gelijk aan 15 Coulumb per seconde. Een stroom van 15 A verplaatst dus elke seconde voor 15 coulomb aan lading. 15 coulumb, dat zijn heel wat elektronen als je weet dat 1 elektron slechts een lading heeft van $ 1.602 176 634 * 10^{-19} C $.
+
+{% endkatexmm %}
+
 </section>
 
 <section markdown="1">
