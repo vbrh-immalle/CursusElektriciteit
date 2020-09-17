@@ -10,9 +10,14 @@ lesson: 2
 <section markdown="1">
 Hoe een bliksem precies de aarde bereikt, daar zijn wetenschappers het nog niet helemaal over eens. Gelukkig weten we wel zeer goed hoe we de stroom van een **batterij** door een gloeilamp of een **LED** kunnen sturen. Elektriciteit *stroomt* van punt A naar B. Met wat extra componenten (b.v. een **regelbare weerstand**) kunnen we die stroom zelfs bijregelen om de gewenste lichtsterkte in te stellen. Hoe sterker de stroom, hoe feller het licht. De lichtsterkte is dus recht evenredig met de stroomsterkte.
 
-<iframe width="800" height="550" src="https://www.falstad.com/circuit/circuitjs.html?ctz=CQAgjCAMB0l3BWcMBMcUHYMGZIA4UA2ATmIxEO2QpQCgxCURtC9wwmAWbJsDkJgBMApgDMAhgFcANgBcAtNOGDwUNTEhhaAJwEZe-bC3ZNIyOPQydwGQiYGczfXubMwkAJWEBnAJbfZcQA7AGNhWgA3ZmMGM0xeQjc1RxBidShoBFoAdz0Ep0TwQsgcooLy+xLc2PswW0rSlBTnPIbcozsWljYWqpBuAy5OHv4+zmH7cZ7i0qmy6M6ZoA
-"></iframe>
-(<a href="https://www.falstad.com/circuit/circuitjs.html?ctz=CQAgjCAMB0l3BWcMBMcUHYMGZIA4UA2ATmIxEO2QpQCgxCURtC9wwmAWbJsDkJgBMApgDMAhgFcANgBcAtNOGDwUNTEhhaAJwEZe-bC3ZNIyOPQydwGQiYGczfXubMwkAJWEBnAJbfZcQA7AGNhWgA3ZmMGM0xeQjc1RxBidShoBFoAdz0Ep0TwQsgcooLy+xLc2PswW0rSlBTnPIbcozsWljYWqpBuAy5OHv4+zmH7cZ7i0qmy6M6ZoA">link</a>)
+<figure>
+    <iframe width="800" height="550" src="https://www.falstad.com/circuit/circuitjs.html?ctz=CQAgjCAMB0l3BWK0BMkDMkBskAskBOLLdXAdlwA50R0txIQsUAoAN3BUpDW7C-D8ow-CCSMJ0BCzCUIXPkIU9I3RphTQwkMgQIo9lcpWING-SbmS4ZckLnQpBTh097DMMMukcICZLDJKQgIzTktrFgBnFW4qHjIXNWEAMwBDABsogFNo2gQk+zB6ePMQdKzcgHdwHHtud1KWGuV49AL6qBZ0MkZWhspFJwgJbt77R07XZ3BhSDHzATAhfji+OebONdrGJpbEzv6umtxiqcmmnt24WNo6W5Guq54UK3divtVZ0ZPJxpv3PMaj56O5lIDNuCvihXrcgTsHgIIUA
+    "></iframe>
+    <p>(<a href="https://www.falstad.com/circuit/circuitjs.html?ctz=CQAgjCAMB0l3BWK0BMkDMkBskAskBOLLdXAdlwA50R0txIQsUAoAN3BUpDW7C-D8ow-CCSMJ0BCzCUIXPkIU9I3RphTQwkMgQIo9lcpWING-SbmS4ZckLnQpBTh097DMMMukcICZLDJKQgIzTktrFgBnFW4qHjIXNWEAMwBDABsogFNo2gQk+zB6ePMQdKzcgHdwHHtud1KWGuV49AL6qBZ0MkZWhspFJwgJbt77R07XZ3BhSDHzATAhfji+OebONdrGJpbEzv6umtxiqcmmnt24WNo6W5Guq54UK3divtVZ0ZPJxpv3PMaj56O5lIDNuCvihXrcgTsHgIIUA
+    ">link</a>)</p>
+    <figcaption>In deze schakeling zie je een batterij die de benodigde stroom moet leveren om 2 lampen te laten branden. Met de schakelaars kan je de schakeling beïnvloeden. Merk op dat verbruikers een bepaalde stroom <em>trekken</em> uit de batterij. Zolang de batterij de <em>gevraagde</em> stroom kan leveren, zal het toestel (de lamp) correct functioneren. Verschillende toestellen (lampen) kunnen <em>in parallel</em> aan de batterij worden aangesloten. Dit is hetzelfde principe als van een verdeelstekker die je in het stopcontact kan steken. Hoe meer apparaten worden ingeschakeld, hoe meer stroom in zijn geheel uit het stopcontact zal worden <em>getrokken</em>. (Kijk naar de stroom die door elke lamp vloeit en de totale stroom die door de batterij moet geleverd worden.)</figcaption>
+</figure>
+
 
 </section>
 
