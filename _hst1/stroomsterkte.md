@@ -19,11 +19,14 @@ Hoe een bliksem precies de aarde bereikt, daar zijn wetenschappers het nog niet 
     <p>
     In deze schakeling zie je een batterij die de benodigde stroom moet leveren om 2 lampen te laten branden. Met de schakelaars kan je de schakeling beïnvloeden. Merk op dat verbruikers een bepaalde stroom <em>trekken</em> uit de batterij. Zolang de batterij de <em>gevraagde</em> stroom kan leveren, zal het toestel (de lamp) correct functioneren. Verschillende toestellen (lampen) kunnen <em>in parallel</em> aan de batterij worden aangesloten. Dit is hetzelfde principe als van een verdeelstekker die je in het stopcontact kan steken. Hoe meer apparaten worden ingeschakeld, hoe meer stroom in zijn geheel uit het stopcontact zal worden <em>getrokken</em>.
     </p>
-    <p>Enkele dingen om te proberen:</p>
-    <ul>
-        <li>Verander de schakelaars. Kijk naar de stroom die door elke lamp vloeit en de totale stroom die door de batterij moet geleverd worden.</li>
-        <li>Kijk naar de temperatuur (in Kelvin) van de lamp. Verhoog eventueel de <strong>simulation speed</strong> om de lamp sneller te laten opwarmen of afkoelen. Wat gebeurt er met de stroomsterkte?</li>
-        <li>Verhoog de spanning v.d. batterij (dubbelklik op de batterij om dit aan te passen). Wat gebeurt er met de stromen?</li>
+    <div class='opdracht'>
+        <p>Enkele dingen om te proberen:</p>
+        <ul>
+            <li>Verander de schakelaars. Kijk naar de stroom die door elke lamp vloeit en de totale stroom die door de batterij moet geleverd worden.</li>
+            <li>Kijk naar de temperatuur (in Kelvin) van de lamp. Verhoog eventueel de <strong>simulation speed</strong> om de lamp sneller te laten opwarmen of afkoelen. Wat gebeurt er met de stroomsterkte?</li>
+            <li>Verhoog de spanning v.d. batterij (dubbelklik op de batterij om dit aan te passen). Wat gebeurt er met de stromen?</li>
+        </ul>
+    </div>
     </figcaption>
 </figure>
 
