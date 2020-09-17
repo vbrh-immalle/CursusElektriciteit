@@ -109,13 +109,18 @@ article > section:nth-child(even) {
 }
 
 figure {
+    max-width: 920px;
     background-color: white;
     padding: 10px, 10px, 10px, 0px;
     border: 1px solid black;
-    text-align: center;
+    // margin: 0 auto;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 figure > img {
+    margin-left: auto;
+    margin-right: auto;
     text-align: center;
 }
 
@@ -123,6 +128,13 @@ figure > figcaption {
     font-style: italic;
     background-color: #efefef;
     padding: 6px;
+}
+
+figure figcaption .opdracht {
+    margin-left: 0;
+    margin-right: 0;
+    font-style: normal;
+    text-align: left;
 }
 
 table {
